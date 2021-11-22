@@ -8,3 +8,8 @@
 
 This repository contains all of the notes ...taken by [Shivani](https://github.com/1406) for the...
 Lighthouse Labs Web Development Bootcamp.
+
+# Table of Contents
+
+* Week 1
+  * Day 1
